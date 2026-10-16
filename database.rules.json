@@ -1,0 +1,9 @@
+{
+  "rules": {
+    "memories": { ".read": true, "$recordId": { ".write": "auth != null && auth.uid === 'wdP2dg3L2Pff5oUIpBc6AyrqpZW2'" } },
+    "gallery": { ".read": true, "$recordId": { ".write": "auth != null && auth.uid === 'wdP2dg3L2Pff5oUIpBc6AyrqpZW2'" } },
+    "teachers": { ".read": true, "$recordId": { ".write": "auth != null && auth.uid === 'wdP2dg3L2Pff5oUIpBc6AyrqpZW2'" } },
+    "timeline": { ".read": true, "$recordId": { ".write": "auth != null && auth.uid === 'wdP2dg3L2Pff5oUIpBc6AyrqpZW2'" } },
+    "siteSettings": { ".read": true, "$recordId": { ".write": "auth != null && auth.uid === 'wdP2dg3L2Pff5oUIpBc6AyrqpZW2'" } }
+  }
+}
